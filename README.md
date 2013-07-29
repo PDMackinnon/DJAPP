@@ -1,0 +1,1 @@
+DJAPP progresses to include other modes via a tab interface. I had wacky ideas for other modalities but in the time I have I just added drum pads using the samples from the provided samples
